@@ -1,0 +1,6 @@
+url: https://github.com/7starsseeker/dsh-card-export
+name: 7starsseeker/dsh-card-export
+category: docs
+description:
+  en: 'Render any Markdown report or DSH session excerpt into shareable PNG images: reports come out as a summary card plus a full verbatim long image, conversations as a message flow. Zero npm dependencies, driving the Chromium-family browser already on the machine.'
+  zh: '把任意 Markdown 报告或 DSH 会话片段渲染成可分享的 PNG 图片：报告输出短图（结论）加长图（完整原文），对话输出消息流长图。零 npm 依赖，复用本机已有的 Chromium 系浏览器。'
